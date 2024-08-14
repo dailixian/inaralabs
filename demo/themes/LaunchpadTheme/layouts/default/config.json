@@ -1,0 +1,226 @@
+{
+  "widgetOnScreen": {
+    "widgets": [{
+      "uri": "themes/LaunchpadTheme/widgets/AnchorBarController/Widget",
+      "position": {
+        "bottom": 24,
+        "height": 40,
+        "relativeTo": "map",
+        "zIndex": 0
+      },
+      "version": "2.30"
+    }, {
+      "uri": "themes/LaunchpadTheme/widgets/Header/Widget",
+      "position": {
+        "left": 9,
+        "top": 10,
+        "width": 670,
+        "height": 46,
+        "relativeTo": "map"
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/Search/Widget",
+      "position": {
+        "left": 344,
+        "top": 16,
+        "zIndex": 1
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/ZoomSlider/Widget",
+      "position": {
+        "left": 17,
+        "top": 78
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/Home/Widget",
+      "position": {
+        "left": 17,
+        "top": 153
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/MyLocation/Widget",
+      "position": {
+        "left": 17,
+        "top": 191
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/Navigate/Widget",
+      "position": {
+        "left": 17,
+        "top": 229
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/Coordinate/Widget",
+      "position": {
+        "left": 10,
+        "bottom": 24
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/Compass/Widget",
+      "position": {
+        "right": 20,
+        "top": 69
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/FullScreen/Widget",
+      "position": {
+        "right": 20,
+        "top": 111
+      },
+      "version": "2.30"
+    }, {
+      "uri": "widgets/Splash/Widget",
+      "visible": false,
+      "position": {
+        "relativeTo": "browser"
+      },
+      "version": "2.30"
+    }, {
+      "position": {
+        "right": 20,
+        "top": 17
+      }
+    }, {
+      "position": {
+        "right": 62,
+        "top": 17
+      }
+    }, {
+      "position": {
+        "right": 104,
+        "top": 17
+      }
+    }]
+  },
+
+  "map": {
+    "position": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    }
+  },
+
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/LaunchpadTheme/panels/LaunchpadPanel/Panel"
+    }
+  },
+
+  "mobileLayout": {
+    "widgetOnScreen": {
+      "widgets": {
+        "themes/LaunchpadTheme/widgets/AnchorBarController/Widget": {
+          "position": {
+            "bottom": 24,
+            "height": 40,
+            "relativeTo": "map",
+            "zIndex": 0
+          },
+          "version": "2.30"
+        },
+        "themes/LaunchpadTheme/widgets/Header/Widget": {
+          "position": {
+            "left": 9,
+            "top": 10,
+            "width": 670,
+            "height": 46,
+            "relativeTo": "map"
+          },
+          "version": "2.30"
+        },
+        "widgets/Search/Widget": {
+          "position": {
+            "left": 344,
+            "top": 16,
+            "zIndex": 1
+          },
+          "version": "2.30"
+        },
+        "widgets/ZoomSlider/Widget": {
+          "position": {
+            "left": 17,
+            "top": 78
+          },
+          "version": "2.30"
+        },
+        "widgets/Home/Widget": {
+          "position": {
+            "left": 17,
+            "top": 153
+          },
+          "version": "2.30"
+        },
+        "widgets/MyLocation/Widget": {
+          "position": {
+            "left": 17,
+            "top": 191
+          },
+          "version": "2.30"
+        },
+        "widgets/Navigate/Widget": {
+          "position": {
+            "left": 17,
+            "top": 229
+          },
+          "version": "2.30"
+        },
+        "widgets/Coordinate/Widget": {
+          "position": {
+            "left": 10,
+            "bottom": 24
+          },
+          "version": "2.30"
+        },
+        "widgets/Compass/Widget": {
+          "position": {
+            "right": 20,
+            "top": 69
+          },
+          "version": "2.30"
+        },
+        "widgets/FullScreen/Widget": {
+          "position": {
+            "right": 20,
+            "top": 111
+          },
+          "version": "2.30"
+        },
+        "widgets/Splash/Widget": {
+          "visible": false,
+          "position": {
+            "relativeTo": "browser"
+          },
+          "version": "2.30"
+        },
+        "ph_11":{
+          "position": {
+            "left": 10,
+            "bottom": 195
+          }
+        },
+        "ph_12": {
+          "position": {
+            "left": 10,
+            "bottom": 155
+          }
+        },
+        "ph_13": {
+          "position": {
+            "left": 10,
+            "bottom": 115
+          }
+        }
+      }
+    }
+  }
+}

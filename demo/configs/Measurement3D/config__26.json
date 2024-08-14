@@ -1,0 +1,11 @@
+{
+  "measurement": {
+    "lengthUnit": "imperial",
+    "areaUnit": "imperial"
+  },
+  "showArea": true,
+  "showDistance": true,
+  "showLocation": false,
+  "defaultLengthUnit": "imperial",
+  "defaultAreaUnit": "imperial"
+}
