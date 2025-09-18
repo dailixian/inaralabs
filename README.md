@@ -1,1 +1,1 @@
-inaralabs demo site
+inaralabs demo site, a SaaS platform for managing and analyzing Lightning Network nodes.
